@@ -2,3 +2,8 @@ Estamos aprendendo a criar um arquivo direto na plataforma do GitHub e realizar 
 
 GIT PULL no repositório local...
 
+ou seja, na nossa máquina vamos atualizar com os arquivos remotos...
+
+BELEZA!!!
+
+
